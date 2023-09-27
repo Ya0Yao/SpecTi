@@ -1,0 +1,18 @@
+body{
+    background-color: darkslategrey;
+    justify-content: center;
+}
+#caly{
+    justify-content: center;
+}
+#formularz{
+    text-align: center;
+    background-color: darkgrey; 
+    padding: 10px;
+    border: 1px solid black;
+    width: 50%;
+    
+}
+/* #okno{
+   background-color: darkgrey; 
+} */
